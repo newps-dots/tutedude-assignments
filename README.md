@@ -1,0 +1,2 @@
+In the task 1, I created a file named sample.txt and opened it and then read the file, after which while printing i used \n to bring the output as asked in the task file.
+in task 2, I opend the file to write, using user as the variable to take input from user then while writing i used the same variable to insert the data into the file, and did same while apperending more data. and then printed the read variable
