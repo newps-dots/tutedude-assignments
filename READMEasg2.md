@@ -1,3 +1,0 @@
-# tutedude-assignments
-In task 1, I have asked for a user input of a number, followed by a function named factorial with if-else condition, where in if the number is check if less than 2 then 1 will be returned and printed, else the logic will be used where the number is multiplied by 1 less then the number, then a new variable results was setuped calling the function with the user entered number as the argument. 
-In task 2, I have imported math, then asked for a number from user, then three variables were setuped each with different logic, as in sq square_root of the number was done and so on, then everything was printed in seperate line. 
