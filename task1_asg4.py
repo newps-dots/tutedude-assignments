@@ -1,0 +1,5 @@
+file = open("sample.txt","r+")
+read = file.readline()
+read_line2 = file.readline()
+print("reading file content: \nThis is line 1:",read,"\nThis is line 2:", read_line2, "\nFile closed")
+file.close()
